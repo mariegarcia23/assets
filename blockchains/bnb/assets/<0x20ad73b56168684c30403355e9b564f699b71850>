@@ -1,0 +1,21 @@
+{
+  "id": "0x20ad73b56168684c30403355e9b564f699b71850",
+  "name": "NFTMUSIC.STREAM",
+  "symbol": "STREAMER",
+  "type": "BEP-20",
+  "decimals": 9,
+  "description": "NFTMUSIC.STREAM is innovation in crypto that music lovers want and connects fans directly with artists in a beautiful music player interface.",
+  "website": "https://nftmusic.stream/",
+  "explorer": "https://bscscan.com/token/0x20ad73b56168684c30403355e9b564f699b71850", 
+  "reflections": true,
+  "social": {
+    "twitter": "https://twitter.com/nftmusicstream",
+    "facebook": "https://www.facebook.com/nftmusic.stream",
+    "linkedin" : "https://www.linkedin.com/company/nft-music-stream",
+    "audit" : "https://app.nftmusic.stream/audit",
+    "whitepaper" : "https://nftmusic.stream/read-whitepaper",
+    "streaming app" : "https://app.nftmusic.stream/"
+    "github" : "https://github.com/NFTMUSIC"
+   "telegram" : "https://t.me/nftmusicstream"
+  }
+}
